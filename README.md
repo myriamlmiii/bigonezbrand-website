@@ -1,5 +1,6 @@
 # 🌍 Basix (BigOnezBrand) — Morocco’s First Biodegradable Clothing Brand  
 
+IG : https://www.instagram.com/bigonezbrand?igsh=MWtkY2Foa3h2cW9vdA== 
 [![Live Demo](https://img.shields.io/badge/demo-online-green)](https://bigonezbrand.vercel.app)  
 [![Next.js](https://img.shields.io/badge/Next.js-13-black?logo=next.js)](https://nextjs.org/)  
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v3-38b2ac?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
